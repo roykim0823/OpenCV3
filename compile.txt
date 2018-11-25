@@ -1,0 +1,1 @@
+g++ example_02-01.cpp -I/usr/local/include/ -L/usr/lib/ -L/usr/local/lib/ -lopencv_highgui -lopencv_core -lopencv_imgcodecs
